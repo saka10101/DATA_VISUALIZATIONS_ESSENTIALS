@@ -1,6 +1,10 @@
-Consists of comprehensive data visualization tutorials using the following libraries:
+Consists of useful materilas from understanding to implementing data visualizations using defferent libraries
 
-1.Matplotlib
-2.Pandas
-3.Seaborn
-4.Bokeh
+
+1. Comprehensive data visualization tutorials using the following libraries:
+         - Matplotlib
+         - Pandas
+         - Seaborn
+         - Bokeh
+
+
